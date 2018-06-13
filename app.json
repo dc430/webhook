@@ -1,7 +1,7 @@
 {
   "name": "Dialogflow webhook",
   "description": "",
-  "repository": "https://github.com/dc430/webhook2",
+  "repository": "https://github.com/dc430/webhook",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
